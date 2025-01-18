@@ -1,0 +1,19 @@
+{
+
+  
+    "validUser": {
+        "firstName": "ნინო",
+        "lastName": "გაგუა",
+        "email": "nina72@mail.com",
+        "password": "123456"
+    },
+    "existingUser": {
+        "firstName": "ნითია",
+        "lastName": "მორჩილაძე",
+        "email": "nina72@mail.com",
+        "password": "111111"
+    }
+    
+
+  }
+
